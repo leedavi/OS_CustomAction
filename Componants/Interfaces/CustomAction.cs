@@ -21,8 +21,8 @@ namespace Nevoweb.OpenStore
 
             // The resulting dll from this project can be copied into the /bin folder of the DNN/NBS installation and then ran using the BO>Admin>Tools option.
             // e.g. for this provider name. (Alter as required)
-            // assembly: NBrightBuy.BaseCustomAction
-            // namespace.class: Nevoweb.DNN.NBrightBuy.Providers.CustomAction
+            // assembly: OS_CustomAction
+            // namespace.class: Nevoweb.OS_CustomAction.CustomAction
 
             // NOTE: change the namespace of "Nevoweb." and the assembly name.
 
